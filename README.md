@@ -1,0 +1,2 @@
+# lintcode
+lintcode daily update
